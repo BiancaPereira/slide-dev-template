@@ -1,4 +1,4 @@
-# Talk: Nome da task
+# Talk: Nome da talk
 > Feito usando [Slidev](https://github.com/slidevjs/slidev)!
 
 Esse template pode ser utilizado para criar apresentações simples, elegantes e dinâmicas utilizando o [Slidev](https://github.com/slidevjs/slidev). 
