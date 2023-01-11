@@ -1,7 +1,9 @@
-# Talk: O Backstage do CSS
+# Talk: Nome da task
 > Feito usando [Slidev](https://github.com/slidevjs/slidev)!
 
-O objetivo dessa palestra é explicar o funcionamento do CSS "por baixo dos panos". Como o browser interpreta o CSS e como é o processo de repaint e reflow.
+Esse template pode ser utilizado para criar apresentações simples, elegantes e dinâmicas utilizando o [Slidev](https://github.com/slidevjs/slidev). 
+
+O **SlideDev** te ajuda a criar apresentações escrevendo em **markdown** e com o benefício e flexibilidade de utilizar HTML, CSS e até mesmo incluir componentes em **Vue.js**.
 
 ---
 
